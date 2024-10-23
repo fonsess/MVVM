@@ -13,7 +13,7 @@ Este é um aplicativo Android desenvolvido em Kotlin usando a arquitetura MVVM.
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/fnzz0/MVVM-Kotlin
+   git clone https://github.com/fonsess/MVVM-Kotlin
 
 ## Contato
 
